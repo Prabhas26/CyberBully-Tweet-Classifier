@@ -15,18 +15,7 @@ This project is an AI-based web application built with Streamlit that classifies
 ## Installation
 
 ### Clone the repo:
-
 ```bash
 git clone https://github.com/Prabhas26/CyberBully-Tweet-Classifier.git
 cd CyberBully-Tweet-Classifier
 
-**Install dependencies:**
-pip install -r requirements.txt
-**Dataset:**
-Place the tweets_refined.csv dataset inside a folder named Data Set Refining/.
-**How to Run the App**
-**Train the models:**
-python train.py
-**Run the Streamlit app:**
-streamlit run app.py --server.headless=true
-Then open the URL shown in the terminal in a browser.
