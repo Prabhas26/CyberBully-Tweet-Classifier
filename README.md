@@ -31,6 +31,7 @@ Place the tweets_refined.csv dataset inside a folder named Data Set Refining/.
 ## How to Run the App
 
 ### Train the models:
+open the folder in the IDE you use to run the project and enter the following command to train models.
 python train.py
 
 ### Run the Streamlit app:
