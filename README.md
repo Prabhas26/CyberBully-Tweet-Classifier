@@ -19,3 +19,7 @@ This project is an AI-based web application built with Streamlit that classifies
 git clone https://github.com/Prabhas26/CyberBully-Tweet-Classifier.git
 cd CyberBully-Tweet-Classifier
 
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+
